@@ -10,11 +10,24 @@ Backend services were implemented separately using Spring Boot.
 
 ## 📸 Screenshots
 
-![Login Page](screenshots/login.png)
-![Order Dashboard](screenshots/dashboard.png)
-![Order Summary](screenshots/summary.png)
-![Status](screenshots/status.png)
-![Menu Control](screenshots/menucontrol.png)
+<table>
+  <tr>
+    <td><img src="screenshots/login.png" width="280"/></td>
+    <td><img src="screenshots/dashboard.png" width="280"/></td>
+  </tr>
+  <tr>
+    <td align="center">Login Page</td>
+    <td align="center">Order Dashboard</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/status.png" width="280"/></td>
+    <td><img src="screenshots/menucontrol.png" width="280"/></td>
+  </tr>
+  <tr>
+    <td align="center">Order Status</td>
+    <td align="center">Menu Control</td>
+  </tr>
+</table>
 
 ---
 
