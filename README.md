@@ -1,3 +1,4 @@
+
 # ☕ Whistlestop Coffee Hut — Staff Dashboard
 
 Frontend-focused showcase of a full-stack coffee shop management system built for the CSC8019 group project at Newcastle University.
