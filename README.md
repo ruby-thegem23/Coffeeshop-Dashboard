@@ -13,7 +13,7 @@ Backend services were implemented separately using Spring Boot.
 ![Login Page](screenshots/login.png)
 ![Order Dashboard](screenshots/dashboard.png)
 ![Order Summary](screenshots/summary.png)
-![Status](screenshots/staust.png)
+![Status](screenshots/status.png)
 ![Menu Control](screenshots/menucontrol.png)
 
 ---
